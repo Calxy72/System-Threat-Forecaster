@@ -11,7 +11,7 @@ sample_submission.csv - a sample submission file in the correct format
 ```
 
 ## Columns
-
+```bash
 'MachineID' : Unique Identifier for Each Machine
 'ProductName': Name of the Installed Antivirus Product
 'EngineVersion': Version of the Antivirus Engine
@@ -87,3 +87,4 @@ sample_submission.csv - a sample submission file in the correct format
 'DateAS' : Malware signature dates ,
 'DateOS' : timestamps for OSVersion which gives the time that the OS was last updated
 'target'
+```
